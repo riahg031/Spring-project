@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-attribute" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-common/ga-customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-customers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-product" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ga-vendor" vcs="Git" />
+  </component>
+</project>

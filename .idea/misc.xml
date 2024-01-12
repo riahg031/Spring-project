@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ga-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-order/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-common/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-vendor/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-attribute/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-customers/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-notification/ga-notification/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/ga-product/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

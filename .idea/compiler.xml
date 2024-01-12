@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ga-customer" />
+        <module name="ga-product" />
+        <module name="ga-auth" />
+        <module name="ga-gateway" />
+        <module name="ga-attribute" />
+        <module name="ga-order" />
+        <module name="ga-vendor" />
+        <module name="ga-common" />
+        <module name="ga-discovery" />
+        <module name="ga-notification" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ga-attribute" target="1.8" />
+      <module name="ga-auth" target="1.8" />
+      <module name="ga-common" target="1.8" />
+      <module name="ga-customer" target="1.8" />
+      <module name="ga-discovery" target="1.8" />
+      <module name="ga-gateway" target="1.8" />
+      <module name="ga-notification" target="1.8" />
+      <module name="ga-order" target="1.8" />
+      <module name="ga-product" target="1.8" />
+      <module name="ga-vendor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ga-attribute" options="-parameters" />
+      <module name="ga-auth" options="-parameters" />
+      <module name="ga-common" options="-parameters" />
+      <module name="ga-customer" options="-parameters" />
+      <module name="ga-discovery" options="-parameters" />
+      <module name="ga-gateway" options="-parameters" />
+      <module name="ga-notification" options="-parameters" />
+      <module name="ga-order" options="-parameters" />
+      <module name="ga-product" options="-parameters" />
+      <module name="ga-vendor" options="-parameters" />
+    </option>
+  </component>
+</project>

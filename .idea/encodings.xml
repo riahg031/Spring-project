@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ga-attribute/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-attribute/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-customer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-customer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-customers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-customers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-notification/ga-notification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-notification/ga-notification/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-product/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-vendor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ga-vendor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
